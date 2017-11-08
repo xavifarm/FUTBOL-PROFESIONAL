@@ -1,6 +1,6 @@
 # FUTBOL-PROFESIONAL
 Liga Española Futbol Profesional
-direcció html rawgit: https://rawgit.com/xavifarm/FUTBOL-PROFESIONAL/master/documento.html
+direcció web rawgit: https://rawgit.com/xavifarm/FUTBOL-PROFESIONAL/master/documento.html
 
 
 
